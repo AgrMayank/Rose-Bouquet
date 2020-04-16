@@ -3,7 +3,7 @@
 
 <p align="center">
   <br>
-  <img src="RoseBouquet.jps" alt="Rose Bouquet">
+  <img src="RoseBouquet.jpg" alt="Rose Bouquet">
   <br>
   <br>
 </p>
