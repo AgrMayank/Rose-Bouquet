@@ -1,6 +1,13 @@
 # Rose Bouquet
  Rose Bouquet in AR using Vuforia
 
+<p align="center">
+  <br>
+  <img src="RoseBouquet.jps" alt="Rose Bouquet">
+  <br>
+  <br>
+</p>
+
 # Download Build
 - Download the latest release [here](https://github.com/AgrMayank/Rose-Bouquet/releases)
 
@@ -10,13 +17,15 @@
 - Platform specific SDK such as Android build tools are also required.
 
 # Note
-- _**Your device MUST support ARCore to be able to run this application**_.
+- _**A *Vuforia license* (free/paid) is required for building this project for Android/iOS.**_.
 - *For Android Build*
     - Switch the target platform to Android.
+    - Enter your Vuforia License key
     - Set the bundle ID.
     - Build and Run.
 - *For iOS Build*
     - Switch the target platform to iOS.
+    - Enter your Vuforia License key
     - Set the bundle ID.
     - Compile the files to generate XCode project.
     - Build the app using XCode.
